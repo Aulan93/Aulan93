@@ -30,6 +30,7 @@ My research interests include quantum topological phases of matter, quantum mach
 ## Featured Projects
 
 ### Machine learning based decoder for quantum error correction
+A collection of Notebooks involving data generation and machine leanrning model to decode a surface code
 
 ### Machine Learning Models
 A collection of notebooks involving data preprocessing, visualization, LSTM models, Support Vector Classification, and model deployment preparation.
