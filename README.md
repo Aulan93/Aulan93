@@ -7,7 +7,7 @@ My research interests include quantum topological phases of matter, quantum mach
 ## Research Interests
 
 - Quantum Computing
-- - Topological Phases of Matter
+-  Topological Phases of Matter
 - Quantum Machine Learning
 - Quantum Error Correction
 - Artificial Intelligence
